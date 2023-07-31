@@ -1,11 +1,5 @@
 # Laravel 8 - Appointment Application
 
-## Screenshots
-
-![preview img](/preview.png)
-
-![preview img](/preview2.png)
-
 ## Run Locally
 
 Clone the project
