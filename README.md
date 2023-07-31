@@ -11,7 +11,8 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-appointment-app.git project-name
+  git clone https://github.com/huzaifah23/demoVeterinar.git project-name
+
 ```
 
 Go to the project directory
